@@ -1,0 +1,7 @@
+這份作業有六個部分，先用interruptin 來完成三個按鈕的輸入。
+並用mod來表現按鈕的確認鍵，mod1為確認的結果
+接著用for迴圈生成方波
+用picoscope讀取analog output的結果，確認有值後
+把analog output 接入analog input
+把讀到的值輸入進python來作圖
+，由於時間問題Python的圖只有兩種waveform。
